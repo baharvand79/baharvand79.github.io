@@ -54,8 +54,5 @@ I have also led workshops on R programming, RNA-Seq analysis, and Computational 
 ---
 
 ### Life Outside the Academia!
-Beyond my research, I am a <span style="color:#e67e22">**storyteller**</span>. I think we understand the world through the stories! and also we make stories understand the world! ( a recursive functio n)
-I enjoy <span style="color:#8e44ad">**classic poems**</span> and <span style="color:#e91e63">**webtoons**</span>. I also like to <span style="color:#c0392b">draw comics</span>, too. I have a unique appreciation (yes... appreciation!) for <span style="color:#27ae60">**lizards**</span> 🦎 and find joy in <span style="color:#2980b9; font-family: monospace">**coding**</span>—not just as a tool for science, but as a creative medium. And coding without a cup of <span style="color:#6d4c41">**coffee**</span> ☕? I don't think it is possible! :)
-
-
+I enjoy <span style="color:#8e44ad">classic poems</span> and <span style="color:#e91e63">webtoons</span>. I also like to <span style="color:#c0392b">draw comics</span>. I have a unique appreciation (yes… appreciation!) for <span style="color:#27ae60">lizards</span> 🦎 and find joy in <span style="color:#2980b9; font-family: monospace">coding</span> - not just as a tool for science, but as a creative medium. And coding without a cup of <span style="color:#6d4c41">coffee</span> ☕? I don’t think that’s possible! 🙂
 
