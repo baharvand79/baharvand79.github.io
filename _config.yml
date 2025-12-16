@@ -26,7 +26,7 @@ repository: "baharvand79/baharvand79.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/baharvand79/baharvand79.github.io/blob/master/unnamed%20(1).jpg"
   name             : "Shakiba Baharvand"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Computational Neuroscience and ML for Health"
